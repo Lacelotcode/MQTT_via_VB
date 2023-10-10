@@ -23,17 +23,7 @@ Public Class Form1
                 T2 = New System.Threading.Thread(AddressOf MqSubscribe)
                 T1.Start()
                 T2.Start()
-                'MsgBox("connetting")
-                'AddHandler Mqclient.MqttMsgPublishReceived, AddressOf MsgReceived
-                'Dim topic(0) As String
-                ' Dim Qos(0) As Byte
-                'topic(0) = "PLC"
-                'topic(1) = "PLCsend"
-                ' Qos(0) = MqttMsgBase.QOS_LEVEL_AT_LEAST_ONCE
-                'Qos(1) = MqttMsgBase.QOS_LEVEL_AT_LEAST_ONCE
-
-                'Mqclient.Subscribe(topic, Qos)
-                '
+                'Delete comment here'
             End If
 
         Catch ex As Exception
