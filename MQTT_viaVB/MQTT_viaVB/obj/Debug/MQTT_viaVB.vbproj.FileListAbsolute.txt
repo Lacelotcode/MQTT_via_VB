@@ -1,0 +1,16 @@
+C:\Users\PD-Automation\source\repos\MQTT_viaVB\MQTT_viaVB\bin\Debug\MQTT_viaVB.exe.config
+C:\Users\PD-Automation\source\repos\MQTT_viaVB\MQTT_viaVB\bin\Debug\MQTT_viaVB.exe
+C:\Users\PD-Automation\source\repos\MQTT_viaVB\MQTT_viaVB\bin\Debug\MQTT_viaVB.pdb
+C:\Users\PD-Automation\source\repos\MQTT_viaVB\MQTT_viaVB\bin\Debug\MQTT_viaVB.xml
+C:\Users\PD-Automation\source\repos\MQTT_viaVB\MQTT_viaVB\bin\Debug\M2Mqtt.Net.dll
+C:\Users\PD-Automation\source\repos\MQTT_viaVB\MQTT_viaVB\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\PD-Automation\source\repos\MQTT_viaVB\MQTT_viaVB\obj\Debug\MQTT_viaVB.vbproj.AssemblyReference.cache
+C:\Users\PD-Automation\source\repos\MQTT_viaVB\MQTT_viaVB\obj\Debug\MQTT_viaVB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\PD-Automation\source\repos\MQTT_viaVB\MQTT_viaVB\obj\Debug\MQTT_viaVB.Form1.resources
+C:\Users\PD-Automation\source\repos\MQTT_viaVB\MQTT_viaVB\obj\Debug\MQTT_viaVB.Resources.resources
+C:\Users\PD-Automation\source\repos\MQTT_viaVB\MQTT_viaVB\obj\Debug\MQTT_viaVB.vbproj.GenerateResource.cache
+C:\Users\PD-Automation\source\repos\MQTT_viaVB\MQTT_viaVB\obj\Debug\MQTT_viaVB.vbproj.CoreCompileInputs.cache
+C:\Users\PD-Automation\source\repos\MQTT_viaVB\MQTT_viaVB\obj\Debug\MQTT_viaVB.vbproj.CopyComplete
+C:\Users\PD-Automation\source\repos\MQTT_viaVB\MQTT_viaVB\obj\Debug\MQTT_viaVB.exe
+C:\Users\PD-Automation\source\repos\MQTT_viaVB\MQTT_viaVB\obj\Debug\MQTT_viaVB.xml
+C:\Users\PD-Automation\source\repos\MQTT_viaVB\MQTT_viaVB\obj\Debug\MQTT_viaVB.pdb
